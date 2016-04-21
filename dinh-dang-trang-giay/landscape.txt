@@ -1,0 +1,7 @@
+- Công dụng: muốn sử dụng khổ giấy ngang (các bảng số liệu, hình ảnh lớn,...)
+- Cách dùng: 
+	+ Thêm vào gói lệnh: \usepackage{lscape}
+	+ Đặt nội dung muốn vào trang ngang trong môi trường landscape:
+		\bgein{landscape}
+			%Nội dụng cần vào trang nằm ngang
+		\end{landscape}
